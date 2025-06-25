@@ -70,7 +70,7 @@ Add the following configuration:
     "MinimumLevel": {
       "Default": "Debug",
       "Override": {
-        "Microsoft": "Information",
+        "Microsoft": "Information"
       }
     }
   },
